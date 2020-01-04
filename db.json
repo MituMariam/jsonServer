@@ -1,0 +1,157 @@
+{
+    "blogs": [{
+            "id": 1,
+            "title": "Legacy Marketing Supervisor",
+            "author": "Jevon Hilll",
+            "short_desc": "Fugit quo autem blanditiis architecto qui.\nNemo maiores ex aut unde alias autem.\nQuis sapiente quod ut cumque molestiae reprehenderit voluptate quia.\nUt alias ducimus natus possimus molestias ducimus possimus fugit illum.",
+            "image": "http://localhost:4400/assets/images/img1.jpg",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 2,
+            "title": "Human Implementation Consultant",
+            "author": "Okey Block",
+            "short_desc": "In corrupti ab at.",
+            "image": "http://localhost:4400/assets/images/img2.jpg",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 3,
+            "title": "Forward Solutions Consultant",
+            "author": "Meredith Lakin",
+            "short_desc": "Sint vitae neque quas quia modi.\nDoloribus et sunt non et voluptas eos.",
+            "image": "http://localhost:4400/assets/images/img3.jpg",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 4,
+            "title": "Investor Response Strategist",
+            "author": "Marilyne Goldner",
+            "short_desc": "Officia vel tempora corrupti fuga unde.\nAssumenda impedit a officia sed neque minus ullam facilis perferendis.\nLaudantium harum est error eius sunt veniam totam sed.\nRepellat est velit rerum.",
+            "image": "http://lorempixel.com/640/480",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 5,
+            "title": "Product Interactions Representative",
+            "author": "Janie Schimmel",
+            "short_desc": "Quidem eos accusantium nesciunt consequatur labore.\nEum corrupti magnam voluptatem optio et pariatur perferendis.",
+            "image": "http://lorempixel.com/640/480",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 6,
+            "title": "District Solutions Administrator",
+            "author": "Reva Torphy",
+            "short_desc": "Nihil et distinctio soluta eaque eos.\nAut est blanditiis inventore.\nMaxime cupiditate rerum quis inventore.\nEt dolor magnam dolore et consequatur qui.\nQuia aut fugit.",
+            "image": "http://lorempixel.com/640/480",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 7,
+            "title": "Forward Communications Developer",
+            "author": "Gerald Kuphal",
+            "short_desc": "Quia fugiat cumque aut quas doloremque.\nUt error quis ratione temporibus.\nRerum consequuntur consequatur ducimus id placeat ex velit qui.\nNisi ipsam et dolorem aliquam ex excepturi voluptatem.",
+            "image": "http://lorempixel.com/640/480",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 8,
+            "title": "Corporate Applications Developer",
+            "author": "Anabelle Gulgowski",
+            "short_desc": "Itaque voluptates ratione distinctio commodi.\nRerum quod labore.\nMagnam quisquam et suscipit recusandae.",
+            "image": "http://lorempixel.com/640/480",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 9,
+            "title": "Senior Assurance Administrator",
+            "author": "Jacey Monahan",
+            "short_desc": "Doloremque unde quam tempore.\nNisi pariatur assumenda accusamus temporibus.\nConsequatur est quo et aliquid temporibus.",
+            "image": "http://lorempixel.com/640/480",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 10,
+            "title": "Global Applications Specialist",
+            "author": "Fleta Sauer MD",
+            "short_desc": "Id nobis quasi quia autem reprehenderit.\nIpsam vel numquam.\nQuaerat sed nihil repellat.",
+            "image": "http://lorempixel.com/640/480"
+        }
+    ],
+
+    "featured_blogs": [{
+            "id": 1,
+            "title": "Dynamic Metrics Designer",
+            "author": "Daija Herzog",
+            "short_desc": "Iste est nisi voluptate non nam numquam quos.\nSapiente accusantium dignissimos officia et minima tempore neque explicabo dolore Dolorem asperiores ipsam.",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 2,
+            "title": "Legacy Solutions Representative",
+            "author": "Seamus Little",
+            "short_desc": "Consequatur ut sapiente.Id voluptatum numquam itaque modi ipsum ratione.\nDoloremque omnis esse aspernatur quaerat praesentium cumque facere modi ipsum.",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        },
+        {
+            "id": 3,
+            "title": "Central Solutions Technician",
+            "author": "Ebony Considine",
+            "short_desc": "Velit qui voluptatem expedita facere tempora.\nQui iure consequuntur.\nEt est optio sit aliquid dolore iusto natus.\nMinima praesentium neque molestiae",
+            "created_at": "2020-01-03T11:03:22.540Z"
+        }
+
+    ],
+    "recent_blogs": [{
+            "id": 1,
+            "title": "Dynamic Metrics Designer",
+            "created_at": "2020-01-03T11:03:22.540Z",
+            "image": "http://lorempixel.com/640/480"
+
+        },
+        {
+            "id": 2,
+            "title": "Legacy Solutions Representative",
+            "created_at": "2020-01-03T11:03:22.540Z",
+            "image": "http://lorempixel.com/640/480"
+
+        },
+        {
+            "id": 3,
+            "title": "Central Solutions Technician",
+            "created_at": "2020-01-03T11:03:22.540Z",
+            "image": "http://lorempixel.com/640/480"
+
+        }
+
+    ],
+
+    "categories": [{
+            "id": 1,
+            "name": "Technology"
+
+        },
+        {
+            "id": 2,
+            "name": "Design"
+
+        },
+        {
+            "id": 3,
+            "name": "Culture"
+
+        },
+        {
+            "id": 3,
+            "name": "Politics"
+
+        },
+        {
+            "id": 3,
+            "name": "Science"
+
+        }
+
+    ]
+}

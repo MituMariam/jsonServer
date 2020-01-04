@@ -1,0 +1,8 @@
+1. npm install -g json-server
+2. Create a db.json file with some data
+    2.1. Create Data from Faker js
+        - faker.js
+        - faker.js cdn
+        - https://cdnjs.cloudflare.com/ajax/libs/Faker/3.1.0/faker.js
+    2.2. Run index file, copy code and format in json format and paste it in db.json
+3. json-server --watch db.json
